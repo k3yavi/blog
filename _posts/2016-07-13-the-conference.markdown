@@ -4,8 +4,7 @@ title:      "The Conference"
 subtitle:   "Come prepared with what to listen otherwise you are wasting time"
 date:       2016-07-13 12:00:00
 author:     "Avi Srivastava"
-header:
-  overlay_image: "img/post-bg-conf.jpg"
+header-img: "img/post-bg-conf.jpg"
 ---
 
 <p>What's in it for you!<p>
