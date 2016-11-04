@@ -401,3 +401,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+background: -moz-linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7));
+background: -webkit-linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7));
+background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7));
+filter: unquote("progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#b3000000',GradientType=0 )");
