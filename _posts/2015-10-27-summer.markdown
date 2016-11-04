@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "Summer well spent"
+date:       2015-10-27 00:39:00
+author:     "Avi Srivastava"
+header-img: "img/post-bg-02.jpg"
+---
+
+<p>Back again after long time, with a good news.
+My first paper's preprint with fellow PhD student Hirak and my guide Prof. Rob Patro is out.
+It can be accessed here. <a href="http://biorxiv.org/content/early/2015/10/22/029652"></a>.</p>

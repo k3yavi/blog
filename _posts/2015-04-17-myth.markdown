@@ -1,0 +1,60 @@
+---
+layout:     post
+title:      "My idea: Myth of Intelligence"
+subtitle:   ""
+date:       2015-05-17 19:40:00
+author:     "Avi Srivastava"
+header-img: "img/post-bg-03.jpg"
+---
+
+<p>I have got a sudden craving to write this thing down. I have done my undergraduate from a place where 
+	they don't teach how to think about problems instead they teach how to solve problems in the book. 
+	I really don't blame them for that. in our world people are considered genius because of their 
+	problem-solving skills. Given A solve B using assumption C, that's the whole world of problems. 
+	I have felt a different taste of this thing because I am not so called genius. We can always find 
+	a lot of genius beings around us but are they really genius? hmm if someone would ask me I would say 
+	depends on how you define genius and it's relative too. In the real world, you'll call a guy genius 
+	when he can solve problems which you cannot solve or he has a different way of thinking. My friend 
+	today say you get better on things when you keep doing it but is it really necessary? A guy is a genius 
+	just because he has seen this problem before and he is boasting all about how you can solve it now. 
+	The belief of that you get better as you keep on solving more problems is it really wise? We see a 
+	lot of problems every day, coding competitions, research but most of the time we are just doing redundant 
+	things just the same problem we have already seen or someone else have seen, in a new form and we waste 
+	so much time to do the same thing again, why?</p>
+<p>Why do we have to start from zero every time?
+I am doing Ph.D. and I feel I am going to see a lot of problems every day. but is it really necessary for 
+others to go through the same process again? I dream of building a system like Algorithm Machine, maybe 
+it's already there but not that well known otherwise it would have been very popular in graduate students 
+:p. So what is Algorithm Machine? Algorithm Machine is a type of machine which eats some problem's constraint 
+and it's goal and spits out all of the algorithm or ways it can think of using its knowledge base of problems. 
+this can be done easily that's how a guy who is expert or genius is really is what he/she is. but what really 
+separate humans from the machines is the power of reduction. So what is this power of reduction? if we have a guy 
+A having expertise in computer vision and B in systems, if you give the same problem to both of them, then 
+they'll reduce the problem in their specific set of expertise only, but that is not the case with the machine. 
+A Machine is all about how you design it to work. This has been changed to BIG data what we call in these days. 
+So why can't we teach the machine the power of reduction of problems to a generalized set of problems, so that 
+machine can really think in every direction possible? Not like the human genius who think in just one way of 
+their expert field.</p>
+<p>we talk about artificial Intelligence but the way I see is we are nowhere near to it. The machine cannot 
+	design their own algorithms. why can't machine design their own algorithms? It needs to start from 
+	somewhere but why not now? ok thinking about an algorithm is hard but what about the reduction of a 
+	problem to some generalized set of algorithms.</p>
+<p>I have talked about this to one of my friend working in ML, he suggested me making clusters of problems 
+	with the same set of problem statement using the nearest neighbor or some other methods, but the thing 
+	about this is, this is not a nearest or approximation problem. We cannot even use near here. So we know 
+	how to solve problem A and there is some problem B then either B is reducible to A and can be solved 
+	like A or B is a new set of problem. there is no term i.e. near to A since we don't know how to solve 
+	problems which are near to A. this power of reduction is what makes my Algorithm Machine different 
+	from others and humans. Machines need to think that is future. Maybe it is my laziness to actually doing 
+	the same problems again or my anger towards those genius guys who are the genius just because they have 
+	seen more problems than me. Let machines do this redundant task we have got much better things to do.</p>
+<p>The first step towards this is what I can think of this as building right initial knowledge base. 
+	So I am gonna start with most stupid thing ever by writing down a problem for knowledge daily. One 
+	problem a day.</p>
+
+<p>These are the steps or assumptions I can think of:
+1. We have knowledge base of some model algos
+then we need to come up with the idea of reduction. I tried to mimic our mind. So how do we really decide in our mind that A is reducible to B?
+1. Through outputs of algos
+2. Through input of algos
+3. If one of them are equal then try to reduce the other by matching constraints what we have for the problem.</p>
