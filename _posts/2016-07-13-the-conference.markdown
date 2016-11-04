@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The Conference"
-<!-- subtitle:   "Problems look mighty small from 150 miles up" -->
+subtitle:   "Come prepared what to listen otherwise you are wasting time"
 date:       2016-07-13 12:00:00
 author:     "Avi Srivastava"
 header-img: "img/post-bg-conf.jpg"
